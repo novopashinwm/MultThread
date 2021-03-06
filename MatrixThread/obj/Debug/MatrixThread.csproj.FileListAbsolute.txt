@@ -1,0 +1,6 @@
+C:\Users\5567\RiderProjects\MatrixThread\MatrixThread\bin\Debug\MatrixThread.exe
+C:\Users\5567\RiderProjects\MatrixThread\MatrixThread\bin\Debug\MatrixThread.pdb
+C:\Users\5567\RiderProjects\MatrixThread\MatrixThread\obj\Debug\MatrixThread.csprojAssemblyReference.cache
+C:\Users\5567\RiderProjects\MatrixThread\MatrixThread\obj\Debug\MatrixThread.csproj.CoreCompileInputs.cache
+C:\Users\5567\RiderProjects\MatrixThread\MatrixThread\obj\Debug\MatrixThread.exe
+C:\Users\5567\RiderProjects\MatrixThread\MatrixThread\obj\Debug\MatrixThread.pdb
